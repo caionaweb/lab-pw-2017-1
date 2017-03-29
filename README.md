@@ -2,6 +2,10 @@
 
 Laboratório da turma de Programação para Web.
 
+##Biografia
+
+Template utilizado: https://github.com/xriley/Orbit-Theme
+
 ## Para rodar o projeto
 
 ### Para fazer clone.
