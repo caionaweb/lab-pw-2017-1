@@ -2,7 +2,7 @@
 
 Laboratório da turma de Programação para Web.
 
-##Biografia
+## Biografia - Crédito Template 
 
 Template utilizado: https://github.com/xriley/Orbit-Theme
 
