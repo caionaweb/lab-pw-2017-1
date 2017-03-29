@@ -12,6 +12,10 @@ Template utilizado: https://github.com/xriley/Orbit-Theme
 
 `git clone https://github.com/caionaweb/lab-pw-2017-1`
 
+### Para rodar com o Tomcat na porta padrão (8080).
+
+`mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run`
+
 ### Para rodar com o Tomcat com uma porta alternativa da padrão (8080).
 
 `mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=8181`
